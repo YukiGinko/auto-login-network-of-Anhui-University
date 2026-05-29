@@ -1,0 +1,19 @@
+# 忽略配置文件（包含个人凭据）
+auto_login_config.json
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略构建输出
+build/
+dist/
+*.spec
+
+# 忽略 edgedriver（已内置到 exe，无需提交）
+edgedriver/
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
