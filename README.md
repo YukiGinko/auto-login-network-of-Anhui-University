@@ -8,3 +8,5 @@ Automatic login script for Anhui University campus network
 整合exe文件内置驱动
 
 用户名 密码仅保存在本地auto_login_config.json文件
+
+可以把快捷方式放在C:\Users\YOURS用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup实现开机自启动
